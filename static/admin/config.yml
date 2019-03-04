@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master
   repo: etidbury/gatsby-starter-netlify-cms
+  base_url: https://tid-cms.now.sh
 
 media_folder: static/img
 public_folder: /img
